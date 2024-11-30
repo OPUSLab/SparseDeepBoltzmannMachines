@@ -78,17 +78,13 @@ The image generation code can generate images according to the label. You can mo
 
 Contributions to improve the code or extend its functionality are welcome. Please feel free to submit issues or pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 This implementation is based on the algorithms as described in:
 
-- 
-- 
+- "A Practical Guide to Training Restricted Boltzmann Machines" by Geoffrey E. Hinton
 
 ## Contact
 
-If you have any questions or suggestions, please open an issue in this repository or contact Shuvro Chowdhury at [schowdhury.eee@gmail.com].
+If you have any questions or suggestions, please open an issue in this repository or contact Shaila Niazi (sniazi@ucsb.edu).
