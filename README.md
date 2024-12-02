@@ -19,7 +19,7 @@ One can directly download the MNIST dataset from the website: https://yann.lecun
 
 1. Clone this repository:
    ```
-   git clone https://github.com/ShuvroChowdhury/MNIST_with_pbits_GC.git
+   https://github.com/OPUSLab/SparseDeepBoltzmannMachines.git
    ```
 
 2. Open MATLAB and navigate to the cloned directory.
