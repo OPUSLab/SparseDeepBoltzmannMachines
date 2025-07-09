@@ -255,7 +255,7 @@ for ll = 1:NL
     fprintf('Total epoch time: %.2fs\n', time_epoch);
 
     % To save the J and h for the very first update
-(*     if (ll==1 && jj==1)
+%{     if (ll==1 && jj==1)
           
           fprintf('running ll=1 and jj= %0.6f\n',jj)
             Je1=J;
@@ -266,7 +266,7 @@ for ll = 1:NL
           save(fname_J1,'Je1')
           save(fname_h1,'he1')
         
-    end *)
+    end %}
 
     Jout = (J);
     hout = (hbias);
